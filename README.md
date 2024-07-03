@@ -1,13 +1,13 @@
 # Data Scientist
 
-### Technical Skills<hr>
+### Technical Skills
 - **Language:** Python, SQL, Java, HTML
 - **Technologies/Frameworks:** Machine Learning, NLP, Power BI, Django, Web Scraping, Streamlit, CSS, BootStrap
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL
 - **Tools:** Jupyter, VS Code, PyCharm
 
-### Education<hr>
+### Education
 **Atmiya University**<br>
 *Bachelor of Computer Application - CGPA - 8.79*<br>
 June 2021– April 2024<br>
@@ -21,7 +21,7 @@ Remote
 - Proficient in EDA, feature engineering, supervised/unsupervised learning models Classification/Regression algorithms, ensemble techniques (e.g., XGBoost, Random Forest), hyperparameter tuning, and clustering algorithms (K-means, DBSCAN).
 - Additional expertise in Excel, SQL, Power BI, web scraping (Beautiful Soup, Selenium), and deployment with Streamlit.
 
-### Work Experience<hr>
+### Work Experience
 **Ignite Intern**<br>
 *Machine Learning Intern*<br>
 May 2024 - June 2024<br>
@@ -50,7 +50,7 @@ Rajkot, Gujarat
 - Throughout my internship, I honed my skills in debugging, logical thinking, and problem-solving. Developed proficiency in HTML, CSS, Bootstrap, and deepened my knowledge of the Python Django Framework.
 - Although I had a foundational understanding of Django from self-study, the internship experience allowed me to significantly enhance my expertise and practical application of the framework.
 
-### Projects<hr>
+### Projects
 **Customer Segmentation** | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
 [Github Link](https://github.com/gauravbosamiya/Ignite-ML-Intern-Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering)
 - Developed a machine learning model to segment customers and identify customer purchase behavior based on RFM (Recency, Frequency, Monetary) analysis using K-Means clustering. Created an interactive web application with Streamlit to visualize and showcase the segmentation results.

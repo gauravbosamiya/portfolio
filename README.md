@@ -8,6 +8,11 @@
 - **Tools:** Jupyter, VS Code, PyCharm
 
 ### Education
+**VIT Vellore**<br>
+*M.Sc. Data Science*<br>
+July 2024 – Present<br>
+Vellore, Tamil Nadu, India
+
 **Atmiya University**<br>
 *Bachelor of Computer Application - CGPA - 8.79*<br>
 June 2021– April 2024<br>

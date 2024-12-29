@@ -1,11 +1,10 @@
-# Machine Learning Engineering
+# Data Scientist 
 
 ### Technical Skills
-- **Language:** Python, SQL, Java, HTML
-- **Technologies/Frameworks:** Machine Learning, NLP, Power BI, Django, Web Scraping, Streamlit, CSS, BootStrap
-- **Version Control:** Git, GitHub
+- **Languages and Tools:** Python, SQL, Power BI, Git, Github
+- **Libraries/Frameworks:** Pandas, Numpy, Matplotlib, Searborn, Scikit-learn, Tesorflow, Keras, NLTK, Django, Streamlit
+- **Data Science fundamentals:** EDA, Machine Learning, Deep Learning
 - **Databases:** MySQL
-- **Tools:** Jupyter, VS Code, PyCharm
 
 ### Education
 **VIT Vellore**<br>

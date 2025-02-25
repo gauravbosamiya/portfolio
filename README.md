@@ -1,7 +1,11 @@
 # Data Scientist 
 
+## Summary
+
+An information enthusiast with MSc in Data Science with expertise in Python, machine learning, and deep learning. Skilled in analyzing complex datasets, building predictive models, and developing AI-driven solutions to extract actionable insights. Passionate about leveraging ML and DL to optimize processes and drive data-driven decision-making. Seeking opportunities to contribute to innovative AI teams and develop impactful, scalable solutions.
+
 ### Technical Skills
-- **Languages and Tools:** Python, SQL, Power BI, Git, Github
+- **Tools and Languages:** Python, SQL, Power BI, Git, Github
 - **Libraries/Frameworks:** Pandas, Numpy, Matplotlib, Searborn, Scikit-learn, Tesorflow, Keras, NLTK, Django, Streamlit
 - **Data Science fundamentals:** EDA, Machine Learning, Deep Learning
 - **Databases:** MySQL
@@ -22,46 +26,51 @@ Rajkot, Gujarat, India
 Jan 2024 - March 2024<br>
 Remote
 - Completed an intensive 12-week certification course with GeeksforGeeks, mastering Python and its key libraries including Pandas, NumPy, Matplotlib, and Seaborn.
-- Proficient in EDA, feature engineering, supervised/unsupervised learning models Classification/Regression algorithms, ensemble techniques (e.g., XGBoost, Random Forest), hyperparameter tuning, and clustering algorithms (K-means, DBSCAN).
-- Additional expertise in Excel, SQL, Power BI, web scraping (Beautiful Soup, Selenium), and deployment with Streamlit.
+- Familiar with EDA, feature engineering, supervised/unsupervised learning model Classification/Regression algorithm, ensemble techniques (i.e., XGBoost, Random Forest), hyperparameter tuning, and clustering algorithms (K-means, DBSCAN).
+- More emphasis on Excel, SQL, Power BI, web scraping using Beautiful Soup and Selenium, and deployment via Streamlit.
 
 ### Work Experience
 **Jupical Technology**<br>
 *Python Basic Technical Training*<br>
 April 2023– May 2023<br>
 Rajkot, Gujarat
-- Throughout my internship, I honed my skills in debugging, logical thinking, and problem-solving. Developed proficiency in HTML, CSS, Bootstrap, and deepened my knowledge of the Python Django Framework.
-- I had a foundational understanding of Django Framework from self-study, the internship experience allowed me to significantly enhance my expertise and practical application of the framework.
+- Throughout the internship, improved my skills in debugging, logical thinking, and problem-solving. Enhanced HTML, CSS, Bootstrap skills, and experience with Python Django Framework.
+- Self-study equipped me with the initial knowledge of Django Framework, and the internship process assisted in further sharpening skills and real-world application of the model to a great extent.
 
 ### Projects
+
+**Garbage Segregation** | Python, Transer Learning, Tensorflow, Keras, Matplotlib, Seaborn, Pandas, Numpy<br>
+[Github Link](https://github.com/gauravbosamiya/Garbage-Segregation-Using-Deep-Learning)
+- Developed a multimodal deep learning model combining a Convolutional Neural Network (CNN) for image processing and a fully connected neural network (MLP) for synthetic gas sensor data to classify waste into 12 categories.
+- Integrated image data and synthetic gas sensor readings to enhance classification accuracy through multimodal learning.
+- Implemented data augmentation and feature engineering techniques to improve model robustness and generalization.
+- Achieved 97% accuracy on the training dataset and 95% accuracy on the validation dataset.
+
 **Customer Segmentation** | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
 [Github Link](https://github.com/gauravbosamiya/Ignite-ML-Intern-Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering)
-- Developed a machine learning model to segment customers and identify customer purchase behavior based on RFM (Recency, Frequency, Monetary) analysis using K-Means clustering. Created an interactive web application with Streamlit to visualize and showcase the segmentation results.
+- Created a customer buying behavior and customer segmentation machine learning model on RFM (Recency,Frequency, Monetary) analysis with K-Means clustering.
+- Created an interactive web application with streamlit to view and visualize the segmentation output.
 
 **Movie Recommendation System** | Python, NLP, Scikit-learn, Pandas, NumPy<br>
 [Github Link](https://github.com/gauravbosamiya/Movie-Recommendation-System)
-- Machine Learning based Movie Recommendation system where movies are recommended based on user search.
-- Collected data from Kaggle and performed data cleaning, preprocessing, feature engineering.
-- Used CountVectorizer for text preprocessing and cosine similarity to predict movies based on that.
+- Created a content-based movie suggestion system from a 5000-movie database to recommend movies based on their content (descriptions, genres, actors).
+- Performed rigorous data preprocessing and feature engineering in the process of cleaning and preparing movie data, developing study ”tags” for each movie that condensed relevant facts. Numerical tags equated to vectors using the CountVectorizer technique to analyze effectively.
+- Employed cosine similarity to determine to what extent films are content-vector similar and therefore system to recommend the 5 most appropriate movies to a user’s preference.
 
-**Sentiment Analysis** | Python, NLP, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
+**Twitter Sentiment Analysis** | Python, NLP, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
 [Github Link](https://github.com/gauravbosamiya/Ignite-ML-Intern-sentiment-analysis)
-- Collected tweet data from Kaggle and performed text-preprocessing, EDA, Feature engineering, used TfidfVectorizer to convert text data into numeric and then developed a machine learning model to analyze sentiments expressed in text. Created a web application using Streamlit to predict whether the text is neutral, irrelevant, positive, or negative.
+- Performed Twitter Sentiment Analysis on 75000+ tweets dataset to label them as positive, negative, neutral or irrelevant.
+- Executed rigorous data pre-processing, EDA and feature engineering like pre-processing and cleaning of tweets data. Transformed tweet text into numerical vectors through TF-IDF vectorization to make it analysis-friendly.
+- Created an interactive streamlit web application where one can input their text and obtain sentiment analysis result.
 
 **Email Spam Classifier** | NLP, Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Streamlit, NumPy<br>
 [Github Link](https://github.com/gauravbosamiya/OIBSIP-email-spam-classifier)
 - This project involves data collection, text preprocessing, EDA, feature engineering, model building, and evaluation. Created a web app using Streamlit for predicting if an email is spam or not.
 - Implemented text preprocessing steps like stopword removal, stemming to enhance model performance. Trained and evaluated multiple machine learning algorithms.
 
-**JobFind** | Python, Django, HTML, CSS, Bootstrap, SQLite3<br>
-[Github Link](https://github.com/gauravbosamiya/job-portal-website-using-django)
-- Built a job portal website named JobFind with three main modules: Admin, User, and Recruiter. Users create their profiles, apply to multiple jobs, and send messages to recruiters regarding jobs.
-- Recruiters handle their profiles, job postings, user applications, and user messages.
-- The admin manages both recruiters and users, reviewing and deciding on new recruiter sign-up requests, with the authority to accept or reject these requests.
 
 ### Certifications
+- Certificate of Data Science Training Program Completion
 - Code Carnival - An Open Hackathon [36 hrs]
 - Certificate of Completion of Python Basic Technical Training
-- Certificate of Data Science Training Program Completion
-- Certificate of Completion Data Analyst Intern
 - Certificate of Academic Excellence in Advanced Java

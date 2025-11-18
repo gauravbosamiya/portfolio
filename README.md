@@ -2,7 +2,7 @@
 
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/gauravbosamiya/gauravbosamiya/main/assets/img/g.jpg" width="150" height="150" style="border-radius: 10px; object-fit: cover;" />
+  <img src="https://github.com/gauravbosamiya/portfolio/blob/main/assets/img/gauravimg.jpeg" width="150" height="150" style="border-radius: 10px; object-fit: cover;" />
 
   <h2>Gaurav Bosamiya</h2>
 

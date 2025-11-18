@@ -1,5 +1,25 @@
 # AI/ML Engineer 
 
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/gauravbosamiya/gauravbosamiya/main/assets/img/g.jpg" width="150" height="150" style="border-radius: 10px; object-fit: cover;" />
+
+  <h2>Gaurav Bosamiya</h2>
+
+  <p>
+    <a href="https://github.com/gauravbosamiya">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/gaurav-bosamiya-702540260/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:gauravbosamiya9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+
 ## Summary
 
 Aspiring AI/ML Engineer focused on building real-world GenAI and machine learning applications.

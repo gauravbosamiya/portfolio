@@ -2,17 +2,21 @@
 
 ## Summary
 
-An information enthusiast with MSc in Data Science with expertise in Python, machine learning, and deep learning. Skilled in analyzing complex datasets, building predictive models, and developing AI-driven solutions to extract actionable insights. Passionate about leveraging ML and DL to optimize processes and drive data-driven decision-making. Seeking opportunities to contribute to innovative AI teams and develop impactful, scalable solutions.
+Aspiring AI/ML Engineer | Passionate about Generative AI, Deep Learning & Agentic Systems
 
 ### Technical Skills
-- **Tools and Languages:** Python, SQL, Power BI, Git, Github
-- **Libraries/Frameworks:** Pandas, Numpy, Matplotlib, Searborn, Scikit-learn, Tesorflow, Keras, NLTK, Django, Streamlit
-- **Data Science fundamentals:** EDA, Machine Learning, Deep Learning
-- **Databases:** MySQL
+ - **Languages**: Python, SQL
+ - **GenAI & LLM**: LangChain (RAG), LangSmith, Groq API, Google Gemini API, Pinecone, ChromaDB, FAISS,
+ MCP (Model Context Protocol)
+ - **ML/DL**: ML/DL frameworks (TensorFlow, Keras, Scikit-learn), neural network architectures including
+ Transformers, and transfer learning techniques
+ - **MLOps & Deployment**: MLflow, DVC, Docker, Kubernetes, CI/CD (GitHub Actions), AWS (EC2, S3, ECR)
+ - **Databases**: MongoDB Atlas, MySQL
+ - **Other Tools**: FastAPI, Streamlit, Git, PowerBI
 
 ### Education
 **VIT Vellore**<br>
-*M.Sc. Data Science*<br>
+*M.Sc. Data Science - CGPA - 7.87*<br>
 July 2024 – Present<br>
 Vellore, Tamil Nadu, India
 
@@ -31,46 +35,52 @@ Remote
 
 ### Work Experience
 **Jupical Technology**<br>
-*Python Basic Technical Training*<br>
+*Python Technical Training*<br>
 April 2023– May 2023<br>
 Rajkot, Gujarat
-- Throughout the internship, improved my skills in debugging, logical thinking, and problem-solving. Enhanced HTML, CSS, Bootstrap skills, and experience with Python Django Framework.
-- Self-study equipped me with the initial knowledge of Django Framework, and the internship process assisted in further sharpening skills and real-world application of the model to a great extent.
+- Got hands-on experience in Python development concepts, debugging techniques, and logical problem-solving.
+- Built a basic e-commerce website using HTML, Bootstrap, and JavaScript, and implemented the backend with Django and SQLite.
 
 ### Projects
 
+**AI-Powered Document & Data Chat Platform** |  Python, LangChain, Google GenAI, FastAPI, Pinecone, MongoDB Atlas, Docker, Streamlit<br>
+[Github Link](https://github.com/gauravbosamiya/CSV-AI)
+- Built a Generative AI chat system for natural language queries on CSV, Excel, PDF, and DOCX files.
+- Integrated LangChain with Google Gemini API for retrieval-augmented generation (RAG).
+- Used FastAPI for backend with document upload/retrieval/summarize APIs and MongoDB Atlas for persistent user-specific chat history.
+- Used Pinecone vector database for semantic search, Implemented async/await concurrency in FastAPI backend to handle multiple simultaneous user queries without blocking I/O.
+- Containerized backend & frontend into a single Docker image for seamless deployment.
+
 **Garbage Segregation** | Python, Transer Learning, Tensorflow, Keras, Matplotlib, Seaborn, Pandas, Numpy<br>
 [Github Link](https://github.com/gauravbosamiya/Garbage-Segregation-Using-Deep-Learning)
-- Developed a multimodal deep learning model combining a Convolutional Neural Network (CNN) for image processing and a fully connected neural network (MLP) for synthetic gas sensor data to classify waste into 12 categories.
-- Integrated image data and synthetic gas sensor readings to enhance classification accuracy through multimodal learning.
-- Implemented data augmentation and feature engineering techniques to improve model robustness and generalization.
-- Achieved 97% accuracy on the training dataset and 95% accuracy on the validation dataset.
+- Used multimodal Deep Learning model integrating a Convolutional Neural Network (CNN) for image processing with a Multilayer Perceptron (MLP) for synthetic gas sensor data to classify waste into biodegradable and non-biodegradable categories (merged from 12 original classes).
+- Performed EDA, image preprocessing and the data cleaning, applied data augmentation and feature engineering to improve model performance, achieving 97% training accuracy and 95% validation accuracy; validated robustness using real-world images.
+- Wrote a research paper, documenting the methodology, experiments, and findings after successfully implementing the model.
+  
+**MLOps- Next Word Predictor** |LSTM, MLflow + DagsHub, DVC, Docker, AWS, CI/CD, Flask<br>
+[Github Link](https://github.com/gauravbosamiya/end-to-end-mlops-pipeline-next-word-predictor)
+- Built an end-to-end MLOps pipeline integrating AWS(S3) and CI/CD with GitHub Actions, automating the entire deep learning workflow from data ingestion to model registration.
+- Scraped text data from the web using BeautifulSoup and Requests for data creation.
+- Trained an LSTM model on text data and deployed it using Flask containerized with Docker.
+- Implemented robust logging and exception handling using Python’s logging module for smooth debugging and error tracking.
+
+**MLOps- Sentiment Analysis** | Machine Learning, MLflow + DagsHub, DVC, Docker, CI/CD, Flask
+[Github Link](https://github.com/gauravbosamiya/mlops-sentiment-analysis-project)
+- Built an MLOps pipeline integrating DVC, MLflow, GitHub Actions, and DagsHub automating the entire sentiment analysis workflow from data ingestion to model registration.
+- Implemented CI/CD workflow with GitHub Actions to automatically run pipeline stages, model validation, and API tests on code commit.
+- Managed experiment tracking through MLflow to monitor model metrics, compare performance across versions, and streamline model selection.
+- Trained a RandomForestClassifier on text data and deployed it via Flask API containerized with Docker and implemented robust logging and exception handling using Python’s logging module for debugging and tracking.
 
 **Customer Segmentation** | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
-[Github Link](https://github.com/gauravbosamiya/Ignite-ML-Intern-Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering)
-- Created a customer buying behavior and customer segmentation machine learning model on RFM (Recency,Frequency, Monetary) analysis with K-Means clustering.
-- Created an interactive web application with streamlit to view and visualize the segmentation output.
-
-**Movie Recommendation System** | Python, NLP, Scikit-learn, Pandas, NumPy<br>
-[Github Link](https://github.com/gauravbosamiya/Movie-Recommendation-System)
-- Created a content-based movie suggestion system from a 5000-movie database to recommend movies based on their content (descriptions, genres, actors).
-- Performed rigorous data preprocessing and feature engineering in the process of cleaning and preparing movie data, developing study ”tags” for each movie that condensed relevant facts. Numerical tags equated to vectors using the CountVectorizer technique to analyze effectively.
-- Employed cosine similarity to determine to what extent films are content-vector similar and therefore system to recommend the 5 most appropriate movies to a user’s preference.
-
-**Twitter Sentiment Analysis** | Python, NLP, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
-[Github Link](https://github.com/gauravbosamiya/Ignite-ML-Intern-sentiment-analysis)
-- Performed Twitter Sentiment Analysis on 75000+ tweets dataset to label them as positive, negative, neutral or irrelevant.
-- Executed rigorous data pre-processing, EDA and feature engineering like pre-processing and cleaning of tweets data. Transformed tweet text into numerical vectors through TF-IDF vectorization to make it analysis-friendly.
-- Created an interactive streamlit web application where one can input their text and obtain sentiment analysis result.
-
-**Email Spam Classifier** | NLP, Python, Scikit-learn, Pandas, Matplotlib, Seaborn, Streamlit, NumPy<br>
-[Github Link](https://github.com/gauravbosamiya/OIBSIP-email-spam-classifier)
-- This project involves data collection, text preprocessing, EDA, feature engineering, model building, and evaluation. Created a web app using Streamlit for predicting if an email is spam or not.
-- Implemented text preprocessing steps like stopword removal, stemming to enhance model performance. Trained and evaluated multiple machine learning algorithms.
-
-
+[Github Link](https://github.com/gauravbosamiya/Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering)
+- Did customer segmentation on online retail data using Python to identify high-value, at-risk, and low-engagement customers.
+- Performed RFM (Recency, Frequency, Monetary) analysis and applied clustering techniques to understand customer purchasing patterns and behavior.
+- Cleaned and transformed large transactional datasets to ensure data accuracy and consistency for reliable insights.
+- Built an interactive web application using Streamlit to visualize the segmentation results.
+  
 ### Certifications
-- Certificate of Data Science Training Program Completion
-- Code Carnival - An Open Hackathon [36 hrs]
-- Certificate of Completion of Python Basic Technical Training
+- Presentation certificate- ”Garbage Segregation Using Deep Learning”, VIT-AP International Conference
+- GeeksforGeeks- Data Science Training Program Certificate
+- Certificate of Code Carnival- An Open Hackathon [36 h]
+- Certification of completion of basic technical Python training
 - Certificate of Academic Excellence in Advanced Java

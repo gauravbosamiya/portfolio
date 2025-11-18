@@ -2,7 +2,7 @@
 
 ## Summary
 
-Aspiring AI/ML Engineer | Passionate about Generative AI, Deep Learning & Agentic Systems
+Aspiring AI/ML Engineer focused on building real-world GenAI and machine learning applications.
 
 ### Technical Skills
  - **Languages**: Python, SQL

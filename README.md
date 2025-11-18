@@ -64,7 +64,7 @@ Rajkot, Gujarat
 - Trained an LSTM model on text data and deployed it using Flask containerized with Docker.
 - Implemented robust logging and exception handling using Python’s logging module for smooth debugging and error tracking.
 
-**MLOps- Sentiment Analysis** | Machine Learning, MLflow + DagsHub, DVC, Docker, CI/CD, Flask
+**MLOps- Sentiment Analysis** | Machine Learning, MLflow + DagsHub, DVC, Docker, CI/CD, Flask<br>
 [Github Link](https://github.com/gauravbosamiya/mlops-sentiment-analysis-project)
 - Built an MLOps pipeline integrating DVC, MLflow, GitHub Actions, and DagsHub automating the entire sentiment analysis workflow from data ingestion to model registration.
 - Implemented CI/CD workflow with GitHub Actions to automatically run pipeline stages, model validation, and API tests on code commit.

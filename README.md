@@ -1,3 +1,21 @@
+<div align="left">
+
+### Gaurav Bosamiya
+
+<a href="https://github.com/gauravbosamiya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gaurav-bosamiya-702540260/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gauravbosamiya9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 # AI/ML Engineer 
 
 ## Summary

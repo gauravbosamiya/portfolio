@@ -14,12 +14,10 @@ Aspiring AI/ML Engineer focused on building real-world GenAI and machine learnin
 
 ### Technical Skills
  - **Languages**: Python, SQL
- - **GenAI & LLM**: LangChain (RAG), LangSmith, Groq API, Google Gemini API, Pinecone, ChromaDB, FAISS,
- MCP (Model Context Protocol)
- - **ML/DL**: ML/DL frameworks (TensorFlow, Keras, Scikit-learn), neural network architectures including
- Transformers, and transfer learning techniques
+ - **GenAI & LLM**:  LangChain (RAG), Langsmith, Groq API, Google Gemini API
+ - **ML/DL**: TensorFlow, Keras, Scikit-learn, neural networks, Transformer models, transfer learning
  - **MLOps & Deployment**: MLflow, DVC, Docker, Kubernetes, CI/CD (GitHub Actions), AWS (EC2, S3, ECR)
- - **Databases**: MongoDB Atlas, MySQL
+ - **Databases**: MongoDB Atlas, MySQL, VectorDB (Pinecone, FAISS)
  - **Other Tools**: FastAPI, Streamlit, Git, PowerBI
 
 ### Education
@@ -42,9 +40,17 @@ Remote
 - More emphasis on Excel, SQL, Power BI, web scraping using Beautiful Soup and Selenium, and deployment via Streamlit.
 
 ### Work Experience
+**Ignite Intern**<br>
+*Machine Learning Intern*<br>
+May 2024 – June 2024<br>
+Remote
+- Built a customer segmentation model using RFM (Recency, Frequency, Monetary) features and K-Means clustering on the Online Retail dataset.
+- Cleaned and transformed raw transaction data into RFM scores to understand how recently, how often, and how much each customer buys.
+- Analyzed the clusters to identify patterns in customer purchase behavior(loyal, high-value, and low-engagement customers).
+
 **Jupical Technology**<br>
 *Python Technical Training*<br>
-April 2023– May 2023<br>
+April 2023 – May 2023<br>
 Rajkot, Gujarat
 - Got hands-on experience in Python development concepts, debugging techniques, and logical problem-solving.
 - Built a basic e-commerce website using HTML, Bootstrap, and JavaScript, and implemented the backend with Django and SQLite.
@@ -67,7 +73,7 @@ Rajkot, Gujarat
   
 **MLOps- Next Word Predictor** |LSTM, MLflow + DagsHub, DVC, Docker, AWS, CI/CD, Flask<br>
 [Github Link](https://github.com/gauravbosamiya/end-to-end-mlops-pipeline-next-word-predictor)
-- Built an end-to-end MLOps pipeline integrating AWS(S3) and CI/CD with GitHub Actions, automating the entire deep learning workflow from data ingestion to model registration.
+- Built an MLOps pipeline integrating AWS(S3) and CI/CD with GitHub Actions, automating the entire deep learning workflow from data ingestion to model registration.
 - Scraped text data from the web using BeautifulSoup and Requests for data creation.
 - Trained an LSTM model on text data and deployed it using Flask containerized with Docker.
 - Implemented robust logging and exception handling using Python’s logging module for smooth debugging and error tracking.
@@ -79,13 +85,7 @@ Rajkot, Gujarat
 - Managed experiment tracking through MLflow to monitor model metrics, compare performance across versions, and streamline model selection.
 - Trained a RandomForestClassifier on text data and deployed it via Flask API containerized with Docker and implemented robust logging and exception handling using Python’s logging module for debugging and tracking.
 
-**Customer Segmentation** | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit<br>
-[Github Link](https://github.com/gauravbosamiya/Customer-Segmentation-Analysis-with-RFM-and-KMeans-Clustering)
-- Did customer segmentation on online retail data using Python to identify high-value, at-risk, and low-engagement customers.
-- Performed RFM (Recency, Frequency, Monetary) analysis and applied clustering techniques to understand customer purchasing patterns and behavior.
-- Cleaned and transformed large transactional datasets to ensure data accuracy and consistency for reliable insights.
-- Built an interactive web application using Streamlit to visualize the segmentation results.
-  
+
 ### Certifications
 - Presentation certificate- ”Garbage Segregation Using Deep Learning”, VIT-AP International Conference
 - GeeksforGeeks- Data Science Training Program Certificate

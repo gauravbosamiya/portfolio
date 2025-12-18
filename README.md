@@ -55,6 +55,16 @@ Rajkot, Gujarat
 - Got hands-on experience in Python development concepts, debugging techniques, and logical problem-solving.
 - Built a basic e-commerce website using HTML, Bootstrap, and JavaScript, and implemented the backend with Django and SQLite.
 
+
+### Research Work
+
+**Garbage Segregation** | Python, Transer Learning, Tensorflow, Keras, Matplotlib, Seaborn, Pandas, Numpy<br>
+[Github Link](https://github.com/gauravbosamiya/Garbage-Segregation-Using-Deep-Learning)
+- Designed and implemented a multimodal deep learning model that combines image features using CNN and synthetic gas sensor data using MLP to classify waste into biodegradable and non-biodegradable categories (merged from 12 original classes).
+- Analyzed each waste class, preprocessed and cleaned the data and applied data augmentation and feature engineering to enhance model performance, achieving 97% training accuracy and 95% validation accuracy, and validated the model’s performance on real-world images.
+- Authored and presented a research paper detailing methodology, experiments, and results at a VIT-AP International Conference.
+
+
 ### Projects
 
 **AI-Powered Document & Data Chat Platform** |  Python, LangChain, Google GenAI, FastAPI, Pinecone, MongoDB Atlas, Docker, Streamlit<br>
@@ -65,12 +75,6 @@ Rajkot, Gujarat
 - Used Pinecone vector database for semantic search, Implemented async/await concurrency in FastAPI backend to handle multiple simultaneous user queries without blocking I/O.
 - Containerized backend & frontend into a single Docker image for seamless deployment.
 
-**Garbage Segregation** | Python, Transer Learning, Tensorflow, Keras, Matplotlib, Seaborn, Pandas, Numpy<br>
-[Github Link](https://github.com/gauravbosamiya/Garbage-Segregation-Using-Deep-Learning)
-- Used multimodal Deep Learning model integrating a Convolutional Neural Network (CNN) for image processing with a Multilayer Perceptron (MLP) for synthetic gas sensor data to classify waste into biodegradable and non-biodegradable categories (merged from 12 original classes).
-- Performed EDA, image preprocessing and the data cleaning, applied data augmentation and feature engineering to improve model performance, achieving 97% training accuracy and 95% validation accuracy; validated robustness using real-world images.
-- Wrote a research paper, documenting the methodology, experiments, and findings after successfully implementing the model.
-  
 **MLOps- Next Word Predictor** |LSTM, MLflow + DagsHub, DVC, Docker, AWS, CI/CD, Flask<br>
 [Github Link](https://github.com/gauravbosamiya/end-to-end-mlops-pipeline-next-word-predictor)
 - Built an MLOps pipeline integrating AWS(S3) and CI/CD with GitHub Actions, automating the entire deep learning workflow from data ingestion to model registration.

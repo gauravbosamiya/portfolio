@@ -22,7 +22,7 @@ Aspiring AI/ML Engineer focused on building real-world GenAI and machine learnin
 
 ### Education
 **VIT Vellore**<br>
-*M.Sc. Data Science - CGPA - 8.26*<br>
+*M.Sc. Data Science - CGPA - 8.28*<br>
 July 2024 – Present<br>
 Vellore, Tamil Nadu, India
 
